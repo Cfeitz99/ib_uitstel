@@ -1,5 +1,5 @@
 {
-  "name": "BTW V2",
+  "name": "IB Uitstel",
   "version": "1.0.0",
   "description": "A simple server for handling webhook triggers and serving a static approval page.",
   "main": "server.js",
